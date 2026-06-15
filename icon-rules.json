@@ -12,6 +12,21 @@
       "label": "Apple"
     },
     {
+      "match": "*.apple.com",
+      "icon": "./apple.png",
+      "label": "Apple"
+    },
+    {
+      "match": "apple.com.cn",
+      "icon": "./apple.png",
+      "label": "Apple"
+    },
+    {
+      "match": "*.apple.com.cn",
+      "icon": "./apple.png",
+      "label": "Apple"
+    },
+    {
       "match": "awwwards.com",
       "icon": "./awwwards.png",
       "label": "Awwwards"
