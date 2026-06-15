@@ -197,6 +197,46 @@
       "label": "Google"
     },
     {
+      "match": "google.com.hk",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "*.google.com.hk",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "google.com.tw",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "*.google.com.tw",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "google.co.jp",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "*.google.co.jp",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "google.co.uk",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "*.google.co.uk",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
       "match": "instagram.com",
       "icon": "./instagram.png",
       "label": "Instagram"
