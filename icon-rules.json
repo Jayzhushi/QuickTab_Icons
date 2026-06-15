@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "match": "github.com",
+      "icon": "./github.png",
+      "label": "GitHub"
+    },
+    {
+      "match": "*.apple.com",
+      "icon": "./apple.png",
+      "label": "Apple"
+    },
+    {
+      "match": "https://mail.google.com/",
+      "icon": "./gmail.png",
+      "label": "Gmail"
+    },
+    {
+      "match": "figma.com",
+      "icon": "./figma.png",
+      "label": "Figma"
+    }
+  ]
+}
