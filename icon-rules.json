@@ -307,6 +307,16 @@
       "label": "Threads"
     },
     {
+      "match": "threads.com",
+      "icon": "./threads.png",
+      "label": "Threads"
+    },
+    {
+      "match": "*.threads.com",
+      "icon": "./threads.png",
+      "label": "Threads"
+    },
+    {
       "match": "toools.design",
       "icon": "./toools-design.png",
       "label": "Toools.design"
