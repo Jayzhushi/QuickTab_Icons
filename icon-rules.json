@@ -7,6 +7,11 @@
       "label": "Animations.dev"
     },
     {
+      "match": "*.animations.dev",
+      "icon": "./animations-dev.png",
+      "label": "Animations.dev"
+    },
+    {
       "match": "apple.com",
       "icon": "./apple.png",
       "label": "Apple"
@@ -42,7 +47,17 @@
       "label": "Baidu"
     },
     {
+      "match": "*.baidu.com",
+      "icon": "./baidu.png",
+      "label": "Baidu"
+    },
+    {
       "match": "bilibili.com",
+      "icon": "./bilibili.png",
+      "label": "Bilibili"
+    },
+    {
+      "match": "*.bilibili.com",
       "icon": "./bilibili.png",
       "label": "Bilibili"
     },
@@ -62,6 +77,11 @@
       "label": "ChatGPT"
     },
     {
+      "match": "*.chatgpt.com",
+      "icon": "./chatgpt.png",
+      "label": "ChatGPT"
+    },
+    {
       "match": "chat.openai.com",
       "icon": "./chatgpt.png",
       "label": "ChatGPT"
@@ -72,7 +92,17 @@
       "label": "Claude"
     },
     {
+      "match": "*.claude.ai",
+      "icon": "./claude.png",
+      "label": "Claude"
+    },
+    {
       "match": "codesandbox.io",
+      "icon": "./codesandbox.png",
+      "label": "CodeSandbox"
+    },
+    {
+      "match": "*.codesandbox.io",
       "icon": "./codesandbox.png",
       "label": "CodeSandbox"
     },
@@ -82,7 +112,17 @@
       "label": "Craft"
     },
     {
+      "match": "*.craft.do",
+      "icon": "./craft.png",
+      "label": "Craft"
+    },
+    {
       "match": "deepl.com",
+      "icon": "./deepl.png",
+      "label": "DeepL"
+    },
+    {
+      "match": "*.deepl.com",
       "icon": "./deepl.png",
       "label": "DeepL"
     },
@@ -92,7 +132,17 @@
       "label": "Dribbble"
     },
     {
+      "match": "*.dribbble.com",
+      "icon": "./dribbble.png",
+      "label": "Dribbble"
+    },
+    {
       "match": "figma.com",
+      "icon": "./figma.png",
+      "label": "Figma"
+    },
+    {
+      "match": "*.figma.com",
       "icon": "./figma.png",
       "label": "Figma"
     },
@@ -102,7 +152,17 @@
       "label": "Framer"
     },
     {
+      "match": "*.framer.com",
+      "icon": "./framer.png",
+      "label": "Framer"
+    },
+    {
       "match": "gamersky.com",
+      "icon": "./gamersky.png",
+      "label": "Gamersky"
+    },
+    {
+      "match": "*.gamersky.com",
       "icon": "./gamersky.png",
       "label": "Gamersky"
     },
@@ -117,6 +177,11 @@
       "label": "GitHub"
     },
     {
+      "match": "*.github.com",
+      "icon": "./github.png",
+      "label": "GitHub"
+    },
+    {
       "match": "mail.google.com",
       "icon": "./gmail.png",
       "label": "Gmail"
@@ -127,7 +192,17 @@
       "label": "Google"
     },
     {
+      "match": "*.google.com",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
       "match": "instagram.com",
+      "icon": "./instagram.png",
+      "label": "Instagram"
+    },
+    {
+      "match": "*.instagram.com",
       "icon": "./instagram.png",
       "label": "Instagram"
     },
@@ -137,7 +212,17 @@
       "label": "Jitter"
     },
     {
+      "match": "*.jitter.video",
+      "icon": "./jitter.png",
+      "label": "Jitter"
+    },
+    {
       "match": "midjourney.com",
+      "icon": "./midjourney.png",
+      "label": "Midjourney"
+    },
+    {
+      "match": "*.midjourney.com",
       "icon": "./midjourney.png",
       "label": "Midjourney"
     },
@@ -147,7 +232,17 @@
       "label": "Mobbin"
     },
     {
+      "match": "*.mobbin.com",
+      "icon": "./mobbin.png",
+      "label": "Mobbin"
+    },
+    {
       "match": "motion.dev",
+      "icon": "./motion.png",
+      "label": "Motion"
+    },
+    {
+      "match": "*.motion.dev",
       "icon": "./motion.png",
       "label": "Motion"
     },
@@ -177,7 +272,17 @@
       "label": "Preply"
     },
     {
+      "match": "*.preply.com",
+      "icon": "./preply.png",
+      "label": "Preply"
+    },
+    {
       "match": "steampowered.com",
+      "icon": "./steam.png",
+      "label": "Steam"
+    },
+    {
+      "match": "*.steampowered.com",
       "icon": "./steam.png",
       "label": "Steam"
     },
@@ -187,7 +292,17 @@
       "label": "Steam Community"
     },
     {
+      "match": "*.steamcommunity.com",
+      "icon": "./steam.png",
+      "label": "Steam Community"
+    },
+    {
       "match": "threads.net",
+      "icon": "./threads.png",
+      "label": "Threads"
+    },
+    {
+      "match": "*.threads.net",
       "icon": "./threads.png",
       "label": "Threads"
     },
@@ -197,12 +312,27 @@
       "label": "Toools.design"
     },
     {
+      "match": "*.toools.design",
+      "icon": "./toools-design.png",
+      "label": "Toools.design"
+    },
+    {
       "match": "unsplash.com",
       "icon": "./unsplash.png",
       "label": "Unsplash"
     },
     {
+      "match": "*.unsplash.com",
+      "icon": "./unsplash.png",
+      "label": "Unsplash"
+    },
+    {
       "match": "weavy.ai",
+      "icon": "./weavy.png",
+      "label": "Weavy"
+    },
+    {
+      "match": "*.weavy.ai",
       "icon": "./weavy.png",
       "label": "Weavy"
     },
@@ -218,12 +348,33 @@
       "label": "X"
     },
     {
+      "match": "*.twitter.com",
+      "icons": ["./x.png", "./x_twitter.png"],
+      "label": "X"
+    },
+    {
+      "match": "*.x.com",
+      "icon": "./x.png",
+      "variants": ["twitter"],
+      "label": "X"
+    },
+    {
       "match": "youdao.com",
       "icon": "./youdao.png",
       "label": "Youdao"
     },
     {
+      "match": "*.youdao.com",
+      "icon": "./youdao.png",
+      "label": "Youdao"
+    },
+    {
       "match": "youtube.com",
+      "icon": "./youtube.png",
+      "label": "YouTube"
+    },
+    {
+      "match": "*.youtube.com",
       "icon": "./youtube.png",
       "label": "YouTube"
     }
