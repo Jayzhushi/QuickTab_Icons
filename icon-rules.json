@@ -197,6 +197,16 @@
       "label": "Google"
     },
     {
+      "match": "https://www.google.com.hk/",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "www.google.com.hk",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
       "match": "google.com.hk",
       "icon": "./google.png",
       "label": "Google"
