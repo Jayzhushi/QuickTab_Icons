@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "match": "github.com",
+      "icon": "./github.png",
+      "label": "GitHub"
+    },
+    {
+      "match": "*.github.com",
+      "icon": "./github.png",
+      "label": "GitHub"
+    },
+    {
+      "match": "https://mail.google.com/",
+      "icon": "./gmail.png",
+      "label": "Gmail"
+    },
+    {
+      "match": "figma.com",
+      "icon": "./figma.png",
+      "label": "Figma"
+    },
+    {
+      "match": "x.com",
+      "icon": "./x.png",
+      "variants": ["twitter"],
+      "label": "X"
+    },
+    {
+      "match": "twitter.com",
+      "icons": ["./x.png", "./x_twitter.png"],
+      "label": "X"
+    }
+  ]
+}

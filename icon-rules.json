@@ -2,24 +2,190 @@
   "version": 1,
   "rules": [
     {
-      "match": "github.com",
-      "icon": "./github.png",
-      "label": "GitHub"
+      "match": "animations.dev",
+      "icon": "./animations-dev.png",
+      "label": "Animations.dev"
     },
     {
-      "match": "*.apple.com",
+      "match": "apple.com",
       "icon": "./apple.png",
       "label": "Apple"
     },
     {
-      "match": "https://mail.google.com/",
-      "icon": "./gmail.png",
-      "label": "Gmail"
+      "match": "awwwards.com",
+      "icon": "./awwwards.png",
+      "label": "Awwwards"
+    },
+    {
+      "match": "baidu.com",
+      "icon": "./baidu.png",
+      "label": "Baidu"
+    },
+    {
+      "match": "bilibili.com",
+      "icon": "./bilibili.png",
+      "label": "Bilibili"
+    },
+    {
+      "match": "cambly.com",
+      "icon": "./cambly.png",
+      "label": "Cambly"
+    },
+    {
+      "match": "chatgpt.com",
+      "icon": "./chatgpt.png",
+      "label": "ChatGPT"
+    },
+    {
+      "match": "chat.openai.com",
+      "icon": "./chatgpt.png",
+      "label": "ChatGPT"
+    },
+    {
+      "match": "claude.ai",
+      "icon": "./claude.png",
+      "label": "Claude"
+    },
+    {
+      "match": "codesandbox.io",
+      "icon": "./codesandbox.png",
+      "label": "CodeSandbox"
+    },
+    {
+      "match": "craft.do",
+      "icon": "./craft.png",
+      "label": "Craft"
+    },
+    {
+      "match": "deepl.com",
+      "icon": "./deepl.png",
+      "label": "DeepL"
+    },
+    {
+      "match": "dribbble.com",
+      "icon": "./dribbble.png",
+      "label": "Dribbble"
     },
     {
       "match": "figma.com",
       "icon": "./figma.png",
       "label": "Figma"
+    },
+    {
+      "match": "framer.com",
+      "icon": "./framer.png",
+      "label": "Framer"
+    },
+    {
+      "match": "gamersky.com",
+      "icon": "./gamersky.png",
+      "label": "Gamersky"
+    },
+    {
+      "match": "gemini.google.com",
+      "icon": "./gemini.png",
+      "label": "Gemini"
+    },
+    {
+      "match": "github.com",
+      "icon": "./github.png",
+      "label": "GitHub"
+    },
+    {
+      "match": "mail.google.com",
+      "icon": "./gmail.png",
+      "label": "Gmail"
+    },
+    {
+      "match": "google.com",
+      "icon": "./google.png",
+      "label": "Google"
+    },
+    {
+      "match": "instagram.com",
+      "icon": "./instagram.png",
+      "label": "Instagram"
+    },
+    {
+      "match": "jitter.video",
+      "icon": "./jitter.png",
+      "label": "Jitter"
+    },
+    {
+      "match": "midjourney.com",
+      "icon": "./midjourney.png",
+      "label": "Midjourney"
+    },
+    {
+      "match": "mobbin.com",
+      "icon": "./mobbin.png",
+      "label": "Mobbin"
+    },
+    {
+      "match": "motion.dev",
+      "icon": "./motion.png",
+      "label": "Motion"
+    },
+    {
+      "match": "notion.so",
+      "icon": "./notion.png",
+      "label": "Notion"
+    },
+    {
+      "match": "preply.com",
+      "icon": "./preply.png",
+      "label": "Preply"
+    },
+    {
+      "match": "steampowered.com",
+      "icon": "./steam.png",
+      "label": "Steam"
+    },
+    {
+      "match": "steamcommunity.com",
+      "icon": "./steam.png",
+      "label": "Steam Community"
+    },
+    {
+      "match": "threads.net",
+      "icon": "./threads.png",
+      "label": "Threads"
+    },
+    {
+      "match": "toools.design",
+      "icon": "./toools-design.png",
+      "label": "Toools.design"
+    },
+    {
+      "match": "unsplash.com",
+      "icon": "./unsplash.png",
+      "label": "Unsplash"
+    },
+    {
+      "match": "weavy.ai",
+      "icon": "./weavy.png",
+      "label": "Weavy"
+    },
+    {
+      "match": "x.com",
+      "icon": "./x.png",
+      "variants": ["twitter"],
+      "label": "X"
+    },
+    {
+      "match": "twitter.com",
+      "icons": ["./x.png", "./x_twitter.png"],
+      "label": "X"
+    },
+    {
+      "match": "youdao.com",
+      "icon": "./youdao.png",
+      "label": "Youdao"
+    },
+    {
+      "match": "youtube.com",
+      "icon": "./youtube.png",
+      "label": "YouTube"
     }
   ]
 }
